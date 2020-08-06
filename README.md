@@ -1,6 +1,6 @@
 # Olá, Mundo!
- Primeiro repositório
+ **Primeiro repositório**
 
-Repositório criado.
+Repositório *criado*.
 
 Essa linha eu adicionei diretamente no site! Que impressionante!
